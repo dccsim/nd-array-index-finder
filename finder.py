@@ -10,7 +10,7 @@ Source of inspiration: https://stackoverflow.com/questions/30180241/numpy-get-th
 
 Libraries:  Numpy 
 
-History:  20200313    add get_range(), get_min_idx(), get_cwd()
+History:  20200318  v1 - get_idx_2d(), get_idx_nd() 
 
 """
 
